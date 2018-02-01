@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ -z $1 ]; then
-    echo "Usage: fwcreator.sh ROM_FILE"
+    echo "Usage: fwcreator.sh MIUI_FULL_ZIP_FILE"
     exit 1
 fi
 
